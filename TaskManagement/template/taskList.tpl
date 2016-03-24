@@ -10,7 +10,6 @@
 <input type="hidden" class="link" value="<?php echo $data['link']; ?>&offset=<?php echo $data['offset'];?>"/>
 <table class="table table-bordered table-responsive table-striped table-condensed">
   <form class="form" action="index.php" method="get">
-  <input type="hidden" name="offset" value="<?php echo $data['offset'];?>">
   <tr>
     <th colspan="5">Filters: 
       <input type="submit" class="btn-xs btn-primary pull-right" value="Aplica"/>
