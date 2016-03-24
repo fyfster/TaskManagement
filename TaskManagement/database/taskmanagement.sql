@@ -42,7 +42,6 @@ CREATE TABLE `task` (
 INSERT INTO `task` (`id`, `description`, `status`, `date`) VALUES
 (1, 'Primul task', 'nefacut', '2016-03-24'),
 (2, 'Task nr 2', 'facut', '2016-03-02'),
-(3, 'ceva', '', '2016-03-24'),
 (5, 'o descriere mai lunga pentru a vede tabel', 'nefacut', '2016-03-25'),
 (6, '231321', 'facut', '2016-03-25'),
 (7, '231321', 'facut', '2016-03-25'),
