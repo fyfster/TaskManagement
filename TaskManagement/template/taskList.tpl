@@ -33,7 +33,7 @@
   <tr>
     <th>Id</th>
     <th>Descriere</th>
-    <th>Date created</th>
+    <th>Data</th>
     <th>Status</th>
     <th>Action</th>
   </tr>
